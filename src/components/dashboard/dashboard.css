@@ -1,0 +1,12 @@
+.companyBox {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.company {
+  width: 70px;
+  height: 45px;
+  background-color: lightsteelblue;
+  margin: 2px;
+  padding: 2px;
+}
